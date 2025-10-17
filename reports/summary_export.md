@@ -1,6 +1,6 @@
 # Developer Insights Report — Stack Overflow 2017
 
-**Generated:** 2025-10-17 17:21
+**Generated:** 2025-10-17 20:09
 
 ## 1. Top Programming Languages by Median Salary
 Based on cleaned and filtered data (n ≥ 20 per language):
